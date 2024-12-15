@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+}
+
+.container {
+  text-align: center;
+  padding: 50px;
+}
+
+.roadmap {
+  margin-top: 50px;
+}
+
+/* Estilos para las estrellas (aún por definir) */
+.star {
+  /* Aquí irán las propiedades CSS para las estrellas */
+}
